@@ -131,7 +131,6 @@ The project transformed raw retail transaction data into an interactive manageme
 MBA — Business Analytics
 
 This project is part of my ongoing Business Analytics portfolio and learning journey.<img width="1470" height="729" alt="Dashboard" src="https://github.com/user-attachments/assets/1b73975d-8131-4f1b-af16-1fca020c61f2" />
-![Retail Sales & Profitability Dashboard](Dashboard.png)
 
 ## 📥 Complete Project Files
 
