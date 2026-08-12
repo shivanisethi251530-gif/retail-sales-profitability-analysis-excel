@@ -52,6 +52,9 @@ The project analyzes:
 ## 📈 Dashboard Preview
 
 ![Retail Sales & Profitability Dashboard](Dashboard.png)
+## 📥 Project Files
+
+[Download the complete Excel workbook](Retail_Sales_Profitability_Analysis.xlsx)
 
 ---
 
