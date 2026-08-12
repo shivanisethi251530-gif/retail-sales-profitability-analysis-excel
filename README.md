@@ -52,10 +52,13 @@ The project analyzes:
 ## 📈 Dashboard Preview
 
 ![Retail Sales & Profitability Dashboard](Dashboard.png)
+
 ## 📥 Project Files
 
-[Download the complete Excel workbook](Retail_Sales_Profitability_Analysis.xlsx)
+**Excel Workbook:**  
+[Download the complete Retail Sales & Profitability Analysis workbook](./Retail_Sales_Profitability_Analysis.xlsx)
 
+> The workbook contains the cleaned dataset, cleaning log, analysis, Pivot Tables, KPIs, business insights and interactive dashboard.
 ---
 
 ## 💡 Key Business Insights
